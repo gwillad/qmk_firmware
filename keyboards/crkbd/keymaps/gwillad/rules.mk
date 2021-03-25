@@ -1,0 +1,3 @@
+OLED_DRIVER_ENABLE= yes     # OLED display
+WPM_ENABLE = yes
+SLEEP_LED_ENABLE = no    # Breathing sleep LED during USB suspend
