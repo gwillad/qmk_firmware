@@ -1,2 +1,3 @@
 VIA_ENABLE = yes
 LTO_ENABLE = yes
+NO_USB_STARTUP_CHECK = yes
